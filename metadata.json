@@ -1,0 +1,4 @@
+{
+"image": "continuumio/anaconda3",
+"entry_point": "python x5_shelf.py"
+} 
